@@ -43,7 +43,7 @@
 
 
 <div style="background: #FFFFFF url('<?php echo base_url()?>public/img/new/hms_login_bg.png'); 
-    background-position: center; background-size:cover; ">
+    background-position: center; background-size:full; ">
 
 
 
@@ -53,7 +53,7 @@
 	<div class="col-md-12">
 	<table width="100%" border="0">
 		<tr>
-			<td colspan="2" align="center"><div style="background: transparent url('<?php echo base_url()?>public/img/new/hms_logo.png') no-repeat center; height:111px; margin-bottom:-50px; padding-top:120px;"></div></td>
+			<td colspan="2" align="center"><div style="background: transparent url('<?php echo base_url()?>public/img/new/hms_logo.png') no-repeat center; height:100%; margin-bottom:-50px; padding-top:120px;"></div></td>
 		</tr>
 		<tr>
 			<td width="50%" align="center">
